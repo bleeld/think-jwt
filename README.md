@@ -1,2 +1,2 @@
 # think-jwt
-thinkphp authorize for php all version
+thinkphp authorize for php ≥7.0
