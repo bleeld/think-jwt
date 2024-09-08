@@ -1,5 +1,5 @@
 <?php
-namespace jwt;
+namespace think;
 
 use think\jwt\driver\JWE;
 use think\jwt\driver\Key;
